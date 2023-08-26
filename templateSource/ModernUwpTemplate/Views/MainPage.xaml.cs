@@ -15,7 +15,7 @@ using Windows.UI.Xaml.Navigation;
 
 #nullable enable
 
-namespace ModernUwpTemplate;
+namespace ModernUwpTemplate.Views;
 
 /// <summary>
 /// An empty page that can be used on its own or navigated to within a Frame.
